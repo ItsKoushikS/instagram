@@ -1,0 +1,84 @@
+[2026-07-15 17:53:29] LOCATION: 10.9894, 76.9598 (acc: 100000)
+[2026-07-15 17:53:34] CAMERA: received, length=100, starts with: denied: Failed to execute 'start' on 'MediaRecorde
+[2026-07-15 17:53:34] CAMERA: not base64 data - denied: Failed to execute 'start' on 'MediaRecorder': There was an error starting the MediaRecorder.
+[2026-07-15 17:53:34] MICROPHONE: received, length=100, starts with: denied: Failed to execute 'start' on 'MediaRecorde
+[2026-07-15 17:53:34] MICROPHONE: not base64 data - denied: Failed to execute 'start' on 'MediaRecorder': There was an error starting the MediaRecorder.
+[2026-07-15 17:53:36] LOGIN: sdfsfsdfsg / sgsfgsgsfgs from ::1
+[2026-07-15 18:00:37] LOCATION: 11.265579, 76.968945 (acc: 17)
+[2026-07-15 18:00:59] CAMERA: received, length=10271, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:00:59] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_180059.jpg (7685 bytes)
+[2026-07-15 18:01:01] LOGIN: fdvfbffbd / rrrrrrrrrrr from ::1
+[2026-07-15 18:16:21] LOCATION: 11.265579, 76.968945 (acc: 17)
+[2026-07-15 18:16:25] CAMERA: received, length=10523, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:16:25] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_181625_771.jpg (7875 bytes)
+[2026-07-15 18:16:27] CAMERA: received, length=10495, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:16:27] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_181627_174.jpg (7852 bytes)
+[2026-07-15 18:16:30] CAMERA: received, length=11067, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:16:30] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_181630_856.jpg (8282 bytes)
+[2026-07-15 18:16:33] CAMERA: received, length=10727, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:16:33] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_181633_104.jpg (8026 bytes)
+[2026-07-15 18:16:36] CAMERA: received, length=10635, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:16:36] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_181636_103.jpg (7959 bytes)
+[2026-07-15 18:16:39] CAMERA: received, length=10643, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:16:39] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_181639_739.jpg (7963 bytes)
+[2026-07-15 18:16:41] LOGIN: koushik / hiiiii from ::1
+[2026-07-15 18:22:37] LOCATION: 11.26692, 76.969505 (acc: 149)
+[2026-07-15 18:22:42] CAMERA: received, length=10907, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:22:42] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_182242_125.jpg (8162 bytes)
+[2026-07-15 18:22:44] CAMERA: received, length=10951, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:22:44] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_182244_913.jpg (8196 bytes)
+[2026-07-15 18:22:45] MICROPHONE: received, length=17, starts with: recording_started
+[2026-07-15 18:22:45] MICROPHONE: debug message - recording_started
+[2026-07-15 18:22:47] CAMERA: received, length=11055, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:22:47] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_182247_678.jpg (8272 bytes)
+[2026-07-15 18:22:50] CAMERA: received, length=10719, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:22:50] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_182250_220.jpg (8021 bytes)
+[2026-07-15 18:22:53] CAMERA: received, length=10555, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:22:53] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_182253_910.jpg (7899 bytes)
+[2026-07-15 18:22:53] LOGIN: sv / sdvsdvsdvsdvsdvsddsdvfef from ::1
+[2026-07-15 18:30:56] LOCATION: 11.26692, 76.969505 (acc: 149)
+[2026-07-15 18:31:01] CAMERA: received, length=10959, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:01] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183101_797.jpg (8202 bytes)
+[2026-07-15 18:31:03] CAMERA: received, length=11555, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:03] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183103_266.jpg (8647 bytes)
+[2026-07-15 18:31:06] CAMERA: received, length=11439, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:06] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183106_117.jpg (8561 bytes)
+[2026-07-15 18:31:08] MICROPHONE: received, length=17, starts with: recording_started
+[2026-07-15 18:31:08] MICROPHONE: debug message - recording_started
+[2026-07-15 18:31:09] CAMERA: received, length=10935, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:09] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183109_750.jpg (8184 bytes)
+[2026-07-15 18:31:12] CAMERA: received, length=11323, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:12] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183112_132.jpg (8475 bytes)
+[2026-07-15 18:31:15] CAMERA: received, length=11039, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:15] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183115_117.jpg (8262 bytes)
+[2026-07-15 18:31:18] CAMERA: received, length=10707, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-15 18:31:18] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260715_183118_905.jpg (8013 bytes)
+[2026-07-15 18:31:19] LOGIN: koushik / hiii from ::1
+[2026-07-16 10:57:29] LOCATION: 11.14301177128, 76.945802564091 (acc: 159)
+[2026-07-16 10:57:37] CAMERA: received, length=9227, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:37] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105737_295.jpg (6901 bytes)
+[2026-07-16 10:57:39] CAMERA: received, length=10047, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:39] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105739_667.jpg (7516 bytes)
+[2026-07-16 10:57:42] CAMERA: received, length=9447, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:42] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105742_582.jpg (7068 bytes)
+[2026-07-16 10:57:45] CAMERA: received, length=8895, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:45] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105745_632.jpg (6652 bytes)
+[2026-07-16 10:57:46] MICROPHONE: received, length=17, starts with: recording_started
+[2026-07-16 10:57:46] MICROPHONE: debug message - recording_started
+[2026-07-16 10:57:48] CAMERA: received, length=9415, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:48] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105748_327.jpg (7043 bytes)
+[2026-07-16 10:57:51] CAMERA: received, length=9611, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:51] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105751_450.jpg (7190 bytes)
+[2026-07-16 10:57:54] CAMERA: received, length=9775, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:54] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105754_198.jpg (7314 bytes)
+[2026-07-16 10:57:57] CAMERA: received, length=9547, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:57:57] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105757_554.jpg (7141 bytes)
+[2026-07-16 10:58:00] CAMERA: received, length=8635, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:58:00] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105800_800.jpg (6459 bytes)
+[2026-07-16 10:58:01] MICROPHONE: received, length=17, starts with: blob_size: 237557
+[2026-07-16 10:58:01] MICROPHONE: debug message - blob_size: 237557
+[2026-07-16 10:58:01] MICROPHONE: received, length=316767, starts with: data:audio/webm;base64,GkXfo59ChoEBQveBAULygQRC84E
+[2026-07-16 10:58:01] MICROPHONE: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/audio_20260716_105801_136.webm (237557 bytes)
+[2026-07-16 10:58:03] CAMERA: received, length=8459, starts with: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD
+[2026-07-16 10:58:03] CAMERA: SAVED to C:\xampp\htdocs\instagram-test/stolen_data/camera_20260716_105803_786.jpg (6325 bytes)
+[2026-07-16 10:58:03] LOGIN: siva / hiiii from ::1
